@@ -1,0 +1,2 @@
+C:\Users\dihor\OneDrive\Desktop\SecureFileMonitor\sensitive_files.txt\confidentioal.pdf
+C:\Users\dihor\OneDrive\Desktop\SecureFileMonitor\sensitive_files.txt\salary.xlsx

@@ -1,0 +1,7 @@
+=== FINAL AUDIT REPORT ===
+
+Total Files Created: 4
+Total Files Deleted: 2
+Total Integrity Alerts: 15235
+Total USB Critical Alerts: 0
+Total Bulk Transfer Alerts: 0
